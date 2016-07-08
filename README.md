@@ -129,4 +129,5 @@ u013004268：加了上面的jar，混淆出现问题
  -keep class org.apache.http.**{*;}  
    
    
+   http://blog.csdn.net/yangqingqo/article/details/48214865
    
