@@ -1,5 +1,5 @@
 # android-async-http-HttpClient-can-t-use-
-android6.0SDK 删除HttpClient的相关类的解决方法
+
 
 android6.0SDK中删除HttpClient的相关类的解决方法
 
